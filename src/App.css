@@ -3,7 +3,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh; 
-  background: url(./Assets/pexels-jplenio-1118873.jpg), rgba(0, 0, 0, 0.4);
+  background: url(./Assets/background.jpg), rgba(0, 0, 0, 0.4);
   background-blend-mode: overlay;
   background-size: cover;
   background-position: center;
